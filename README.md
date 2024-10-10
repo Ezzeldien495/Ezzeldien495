@@ -2,7 +2,7 @@
 
 ## 🌐 Connect with Me
 <div align="center">
-![Trendy Programmer](https://static.vecteezy.com/system/resources/previews/045/885/346/non_2x/trendy-programmer-concepts-vector.jpg)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezz-eldien-ayman-9a22a6289/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ezzeldien495)
