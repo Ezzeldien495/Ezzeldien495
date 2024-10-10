@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Ezz Eldien!
 
+
+## 🌐 Connect with Me
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezz-eldien-ayman-9a22a6289/)
@@ -19,10 +21,6 @@
 ## 🚀 My Repositories
 Here are some of my notable repositories:
 - [Mohammed Abu-Hadhoud](https://github.com/Ezzeldien495/Mohammed-Abu-Hadhoud).
-
-
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=EzzEldien495)
 
 ---
 
