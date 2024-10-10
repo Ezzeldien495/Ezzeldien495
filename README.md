@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ezz Eldien!
 
-## 🌐 Connect with Me
+
 <div align="center">
 
 
