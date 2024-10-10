@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ezz Eldien!
 
-# ![Your Logo](https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fprogrammer-logo&psig=AOvVaw1293P_-BRJ80u1SPRj71Zo&ust=1728659716259000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIizmraNhIkDFQAAAAAdAAAAABAE/logo.png)
+# ![Your Logo](https://static.vecteezy.com/system/resources/previews/045/885/346/non_2x/trendy-programmer-concepts-vector.jpg/logo.png)
 ## 🌐 Connect with Me
 <div align="center">
 
