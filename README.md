@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ezz Eldien!
 
-<!--
-**Ezzeldien495/Ezzeldien495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect with Me
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ezzeldien495)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezz-eldien-ayman-9a22a6289/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ezzayman495@gmail.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ezzeldien495)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Repositories
+Here are some of my notable repositories:
+- [Mohammed Abu-Hadhoud](https://github.com/Ezzeldien495/Mohammed-Abu-Hadhoud).
+
+
+## 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=EzzEldien495)
+
+---
+
+### Thank you for visiting my profile! 🌟
+
