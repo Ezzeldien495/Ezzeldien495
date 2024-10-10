@@ -4,7 +4,7 @@
 
 
 
-<div align="center">
+<div id="badges" align="center">
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/yourprofile)
 [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/yourusername)
