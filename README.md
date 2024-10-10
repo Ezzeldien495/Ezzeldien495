@@ -4,7 +4,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWUzdXEzanR4Z3kyN2NjanUwZHl6ZG55MzdldzM4a2FwMmpvYXJxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEPwfdu6T6svpPE1eN/giphy.gif" width="100"/>
 
  
-div align="center">
+</div>
+
+<div id="padges" align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
