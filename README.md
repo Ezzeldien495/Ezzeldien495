@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ezz Eldien!
 
-# ![Your Logo](https://static.vecteezy.com/system/resources/previews/045/885/346/non_2x/trendy-programmer-concepts-vector.jpg/logo.png)
+#![Trendy Programmer](https://static.vecteezy.com/system/resources/previews/045/885/346/non_2x/trendy-programmer-concepts-vector.jpg)
 ## 🌐 Connect with Me
 <div align="center">
 
