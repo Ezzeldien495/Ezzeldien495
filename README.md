@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ezz Eldien!
 
-
+# ![Your Logo](https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fprogrammer-logo&psig=AOvVaw1293P_-BRJ80u1SPRj71Zo&ust=1728659716259000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIizmraNhIkDFQAAAAAdAAAAABAE/logo.png)
 ## 🌐 Connect with Me
 <div align="center">
 
@@ -11,8 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Ezz.ayman.9803)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ezzeldien495)
 
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Ezzeldien495)
+###![Profile Views](https://komarev.com/ghpvc/?username=Ezzeldien495)
 
 </div>
 
