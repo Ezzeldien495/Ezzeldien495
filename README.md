@@ -11,7 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Ezz.ayman.9803)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ezzeldien495)
 
-###![Profile Views](https://komarev.com/ghpvc/?username=Ezzeldien495)
+![Profile Views](https://komarev.com/ghpvc/?username=Ezzeldien495)
 
 </div>
 
