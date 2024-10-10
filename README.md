@@ -2,21 +2,18 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWUzdXEzanR4Z3kyN2NjanUwZHl6ZG55MzdldzM4a2FwMmpvYXJxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HEPwfdu6T6svpPE1eN/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-instagram-URL">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="your-facebook-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="your-github-URL">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
+
+<div align="center">
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/yourprofile)
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/yourusername)
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4c/Gmail_Icon.svg)](mailto:youremail@gmail.com)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/yourprofile)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/yourprofile)
+[![Twitter](https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/2048px-Twitter_bird_logo_2012.svg.png)](https://twitter.com/yourprofile)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+
+</div>
